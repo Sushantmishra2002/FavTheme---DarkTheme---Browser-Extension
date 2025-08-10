@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "FavTheme \u2014 Force Dark Theme",
+  "version": "1.0.0",
+  "description": "Force dark mode on websites, with brightness, exclusions, and auto-schedule.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
