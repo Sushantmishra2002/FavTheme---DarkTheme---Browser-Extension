@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Overview
 
 **FavTheme** is a powerful Chrome extension that allows users to apply customizable color themes (including dark mode and many others) to any website. It helps reduce eye strain and makes browsing more comfortable, especially in low-light conditions. FavTheme supports applying themes either to the current page or globally across all sites you visit.
