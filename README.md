@@ -172,4 +172,4 @@ Thank you for choosing **FavTheme** — browse comfortably with style!
 
 ---
 
-*For any questions or support, reach out to the developer.*
+*For any questions or support, reach out to us.*
