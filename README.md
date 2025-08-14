@@ -169,3 +169,14 @@ This is an open project and contributions are welcome! Feel free to open issues 
 ---
 
 
+## License
+
+This project is open-source and free to use.
+
+
+Thank you for choosing **FavTheme** — browse comfortably with style!
+
+
+*For any questions or support, reach out to us.*
+
+---
